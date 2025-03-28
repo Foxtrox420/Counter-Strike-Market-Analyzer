@@ -21,7 +21,7 @@ Gamma 2 Case
 Gamma Case
 Glove Case
 Horizon Case
-Huntsman Case
+Huntsman Weapon Case
 Operation Bravo Case
 Operation Breakout Weapon Case
 Operation Broken Fang Case
