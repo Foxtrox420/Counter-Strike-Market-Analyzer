@@ -1,5 +1,7 @@
 # Counter-Strike-Market-Analyzer
-A simple tool with gradio to predict market prices and analyze it
+The Counter-Strike Market Analyzer or (CSMA) is a Gradio based tool to search csgo items (mainly skins and cases) and analyze the trends and predict them efficiently and intelligently. The basis of the model uses XGBoost with Optuna for hyperparameter tuning. 
+
+Stickers and Souvenir Packages are not supported for now but might be added in the future so stay tuned !
 
 ## Features - Input Interfaces
 **Skins Input**
