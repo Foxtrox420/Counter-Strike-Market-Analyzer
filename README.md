@@ -16,12 +16,13 @@ Stickers and Souvenir Packages are not supported for now but might be added in t
 ## Features - Output Interface
 **Skins Output**
 ![image](https://github.com/user-attachments/assets/a1b83ba9-7ed8-4731-9946-f2dea7dceab5)
-![image](https://github.com/user-attachments/assets/335deaf1-2bd1-4a31-a62f-f7d2b1db76dc)
+![image](https://github.com/user-attachments/assets/3311cb9a-577a-4b3f-9a73-c931c5811141)
 
 **Case Output**
 ![image](https://github.com/user-attachments/assets/c07a641f-3083-446d-9fa5-e7051b493952)
-![image](https://github.com/user-attachments/assets/9a454344-f43c-4515-9599-272b9dbf5773)
+![image](https://github.com/user-attachments/assets/f7d47985-647d-40e6-8473-a1e57a4c909e)
 
 **Knives and Gloves Output**
 ![image](https://github.com/user-attachments/assets/b88edfb2-d49b-4209-874e-b3766aed5d05)
-![image](https://github.com/user-attachments/assets/d78069a0-1d57-4939-b67a-fba784177565)
+![image](https://github.com/user-attachments/assets/3fc78183-61d7-4533-9712-a2d20667d61b)
+
